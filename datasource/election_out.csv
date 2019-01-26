@@ -1,0 +1,261 @@
+State,Year,Democrat,Republican,Winner
+Alabama,2000,695602.0,944409.0,Republican
+Alaska,2000,79004.0,167398.0,Republican
+Arizona,2000,685341.0,781652.0,Republican
+Arkansas,2000,422768.0,472940.0,Republican
+California,2000,5861203.0,4567429.0,Democrat
+Colorado,2000,738227.0,883745.0,Republican
+Connecticut,2000,816015.0,561094.0,Democrat
+Delaware,2000,180068.0,137288.0,Democrat
+D. C.,2000,171923.0,18073.0,Democrat
+Florida,2000,2912253.0,2912790.0,Republican
+Georgia,2000,1116230.0,1419720.0,Republican
+Hawaii,2000,205286.0,137845.0,Democrat
+Idaho,2000,138637.0,336937.0,Republican
+Illinois,2000,2589026.0,2019421.0,Democrat
+Indiana,2000,901980.0,1245836.0,Republican
+Iowa,2000,638517.0,634373.0,Democrat
+Kansas,2000,399276.0,622332.0,Republican
+Kentucky,2000,638898.0,872492.0,Republican
+Louisiana,2000,792344.0,927871.0,Republican
+Maine,2000,319951.0,286616.0,Democrat
+Maryland,2000,1145782.0,813797.0,Democrat
+Massachusetts,2000,1616487.0,878502.0,Democrat
+Michigan,2000,2170418.0,1953139.0,Democrat
+Minnesota,2000,1168266.0,1109659.0,Democrat
+Mississippi,2000,404964.0,573230.0,Republican
+Missouri,2000,1111138.0,1189924.0,Republican
+Montana,2000,137126.0,240178.0,Republican
+Nebraska,2000,231780.0,433862.0,Republican
+Nevada,2000,279978.0,301575.0,Republican
+New Hampshire,2000,266348.0,273559.0,Republican
+New Jersey,2000,1788850.0,1284173.0,Democrat
+New Mexico,2000,286783.0,286417.0,Democrat
+New York,2000,4113791.0,2405676.0,Democrat
+North Carolina,2000,1257692.0,1631163.0,Republican
+North Dakota,2000,95284.0,174852.0,Republican
+Ohio,2000,2186190.0,2351209.0,Republican
+Oklahoma,2000,474276.0,744337.0,Republican
+Oregon,2000,720342.0,713577.0,Democrat
+Pennsylvania,2000,2485967.0,2281127.0,Democrat
+Rhode Island,2000,249508.0,130555.0,Democrat
+South Carolina,2000,566039.0,786426.0,Republican
+South Dakota,2000,118804.0,190700.0,Republican
+Tennessee,2000,981720.0,1061949.0,Republican
+Texas,2000,2433746.0,3799639.0,Republican
+Utah,2000,203053.0,515096.0,Republican
+Vermont,2000,149022.0,119775.0,Democrat
+Virginia,2000,1217290.0,1437490.0,Republican
+Washington,2000,1247652.0,1108864.0,Democrat
+West Virginia,2000,295497.0,336475.0,Republican
+Wisconsin,2000,1242987.0,1237279.0,Democrat
+Wyoming,2000,60481.0,147947.0,Republican
+Total,2000,51009810.0,50462412.0,Democrat
+Alabama,2004,693933.0,1176394.0,Republican
+Alaska,2004,111025.0,190889.0,Republican
+Arizona,2004,893524.0,1104294.0,Republican
+Arkansas,2004,469953.0,572898.0,Republican
+California,2004,6745485.0,5509826.0,Democrat
+Colorado,2004,1001725.0,1101256.0,Republican
+Connecticut,2004,857488.0,693826.0,Democrat
+Delaware,2004,200152.0,171660.0,Democrat
+D. C.,2004,202970.0,21256.0,Democrat
+Florida,2004,3583544.0,3964522.0,Republican
+Georgia,2004,1366149.0,1914254.0,Republican
+Hawaii,2004,231708.0,194191.0,Democrat
+Idaho,2004,181098.0,409235.0,Republican
+Illinois,2004,2891550.0,2345946.0,Democrat
+Indiana,2004,969011.0,1479438.0,Republican
+Iowa,2004,741898.0,751957.0,Republican
+Kansas,2004,434993.0,736456.0,Republican
+Kentucky,2004,712733.0,1069439.0,Republican
+Louisiana,2004,820299.0,1102169.0,Republican
+Maine,2004,396842.0,330201.0,Democrat
+Maryland,2004,1334493.0,1024703.0,Democrat
+Massachusetts,2004,1803800.0,1071109.0,Democrat
+Michigan,2004,2479183.0,2313746.0,Democrat
+Minnesota,2004,1445014.0,1346695.0,Democrat
+Mississippi,2004,458094.0,684981.0,Republican
+Missouri,2004,1259171.0,1455713.0,Republican
+Montana,2004,173710.0,266063.0,Republican
+Nebraska,2004,254328.0,512814.0,Republican
+Nevada,2004,397190.0,418690.0,Republican
+New Hampshire,2004,340511.0,331237.0,Democrat
+New Jersey,2004,1911430.0,1670003.0,Democrat
+New Mexico,2004,370942.0,376930.0,Republican
+New York,2004,4314280.0,2962567.0,Democrat
+North Carolina,2004,1525849.0,1961166.0,Republican
+North Dakota,2004,111052.0,196651.0,Republican
+Ohio,2004,2741167.0,2859768.0,Republican
+Oklahoma,2004,503966.0,959792.0,Republican
+Oregon,2004,943163.0,866831.0,Democrat
+Pennsylvania,2004,2938095.0,2793847.0,Democrat
+Rhode Island,2004,259760.0,169046.0,Democrat
+South Carolina,2004,661699.0,937974.0,Republican
+South Dakota,2004,149244.0,232584.0,Republican
+Tennessee,2004,1035160.0,1383336.0,Republican
+Texas,2004,2832704.0,4526917.0,Republican
+Utah,2004,241199.0,663742.0,Republican
+Vermont,2004,184067.0,121180.0,Democrat
+Virginia,2004,1454742.0,1716959.0,Republican
+Washington,2004,1510201.0,1304894.0,Democrat
+West Virginia,2004,326541.0,423778.0,Republican
+Wisconsin,2004,1489504.0,1478120.0,Democrat
+Wyoming,2004,70776.0,167629.0,Republican
+Total,2004,59027115.0,62039572.0,Republican
+Alabama,2008,813479.0,1266546.0,Republican
+Alaska,2008,123594.0,193841.0,Republican
+Arizona,2008,1034707.0,1230111.0,Republican
+Arkansas,2008,422310.0,638017.0,Republican
+California,2008,8274473.0,5011781.0,Democrat
+Colorado,2008,1288633.0,1073629.0,Democrat
+Connecticut,2008,997773.0,629428.0,Democrat
+Delaware,2008,255459.0,152374.0,Democrat
+D. C.,2008,245800.0,17367.0,Democrat
+Florida,2008,4282367.0,4046219.0,Democrat
+Georgia,2008,1844123.0,2048759.0,Republican
+Hawaii,2008,325871.0,120566.0,Democrat
+Idaho,2008,236440.0,403012.0,Republican
+Illinois,2008,3419348.0,2031179.0,Democrat
+Indiana,2008,1374039.0,1345648.0,Democrat
+Iowa,2008,828940.0,682379.0,Democrat
+Kansas,2008,514765.0,699655.0,Republican
+Kentucky,2008,751985.0,1048462.0,Republican
+Louisiana,2008,782989.0,1148275.0,Republican
+Maine,2008,421923.0,295273.0,Democrat
+Maryland,2008,1629467.0,959862.0,Democrat
+Massachusetts,2008,1904098.0,1108854.0,Democrat
+Michigan,2008,2872579.0,2048639.0,Democrat
+Minnesota,2008,1573354.0,1275409.0,Democrat
+Mississippi,2008,554662.0,724597.0,Republican
+Missouri,2008,1441911.0,1445814.0,Republican
+Montana,2008,232159.0,243882.0,Republican
+Nebraska,2008,333319.0,452979.0,Republican
+Nevada,2008,533736.0,412827.0,Democrat
+New Hampshire,2008,384826.0,316534.0,Democrat
+New Jersey,2008,2215422.0,1613207.0,Democrat
+New Mexico,2008,472422.0,346832.0,Democrat
+New York,2008,4804945.0,2752771.0,Democrat
+North Carolina,2008,2142651.0,2128474.0,Democrat
+North Dakota,2008,141403.0,168887.0,Republican
+Ohio,2008,2940044.0,2677820.0,Democrat
+Oklahoma,2008,502496.0,960165.0,Republican
+Oregon,2008,1037291.0,738475.0,Democrat
+Pennsylvania,2008,3276363.0,2655885.0,Democrat
+Rhode Island,2008,296571.0,165391.0,Democrat
+South Carolina,2008,862449.0,1034896.0,Republican
+South Dakota,2008,170924.0,203054.0,Republican
+Tennessee,2008,1087437.0,1479178.0,Republican
+Texas,2008,3528633.0,4479328.0,Republican
+Utah,2008,327670.0,596030.0,Republican
+Vermont,2008,219262.0,98974.0,Democrat
+Virginia,2008,1959532.0,1725005.0,Democrat
+Washington,2008,1750848.0,1229216.0,Democrat
+West Virginia,2008,303857.0,397466.0,Republican
+Wisconsin,2008,1677211.0,1262393.0,Democrat
+Wyoming,2008,82868.0,164958.0,Republican
+Total,2008,69499428.0,59950323.0,Democrat
+Alabama,2012,795696.0,1255925.0,Republican
+Alaska,2012,122640.0,164676.0,Republican
+Arizona,2012,1025232.0,1233654.0,Republican
+Arkansas,2012,394409.0,647744.0,Republican
+California,2012,7854285.0,4839958.0,Democrat
+Colorado,2012,1323102.0,1185243.0,Democrat
+Connecticut,2012,905109.0,634899.0,Democrat
+Delaware,2012,242584.0,165484.0,Democrat
+D. C.,2012,267070.0,21381.0,Democrat
+Florida,2012,4237756.0,4163447.0,Democrat
+Georgia,2012,1773827.0,2078688.0,Republican
+Hawaii,2012,306658.0,121015.0,Democrat
+Idaho,2012,212787.0,420911.0,Republican
+Illinois,2012,3019512.0,2135216.0,Democrat
+Indiana,2012,1154275.0,1422872.0,Republican
+Iowa,2012,822544.0,730617.0,Democrat
+Kansas,2012,439908.0,689809.0,Republican
+Kentucky,2012,679370.0,1087190.0,Republican
+Louisiana,2012,809141.0,1152262.0,Republican
+Maine,2012,401306.0,292276.0,Democrat
+Maryland,2012,1677844.0,971869.0,Democrat
+Massachusetts,2012,1921761.0,1188460.0,Democrat
+Michigan,2012,2564569.0,2115256.0,Democrat
+Minnesota,2012,1546167.0,1320225.0,Democrat
+Mississippi,2012,562949.0,710746.0,Republican
+Missouri,2012,1223796.0,1482440.0,Republican
+Montana,2012,201839.0,267928.0,Republican
+Nebraska,2012,302081.0,475064.0,Republican
+Nevada,2012,531373.0,463567.0,Democrat
+New Hampshire,2012,369561.0,329918.0,Democrat
+New Jersey,2012,2126610.0,1478749.0,Democrat
+New Mexico,2012,415335.0,335788.0,Democrat
+New York,2012,4485877.0,2490496.0,Democrat
+North Carolina,2012,2178391.0,2270395.0,Republican
+North Dakota,2012,124827.0,188163.0,Republican
+Ohio,2012,2827709.0,2661437.0,Democrat
+Oklahoma,2012,443547.0,891325.0,Republican
+Oregon,2012,970488.0,754175.0,Democrat
+Pennsylvania,2012,2990274.0,2680434.0,Democrat
+Rhode Island,2012,279677.0,157204.0,Democrat
+South Carolina,2012,865941.0,1071645.0,Republican
+South Dakota,2012,145039.0,210610.0,Republican
+Tennessee,2012,960709.0,1462330.0,Republican
+Texas,2012,3308124.0,4569843.0,Republican
+Utah,2012,251813.0,740600.0,Republican
+Vermont,2012,199239.0,92698.0,Democrat
+Virginia,2012,1971820.0,1822522.0,Democrat
+Washington,2012,1755396.0,1290670.0,Democrat
+West Virginia,2012,238269.0,417655.0,Republican
+Wisconsin,2012,1620985.0,1407966.0,Democrat
+Wyoming,2012,69286.0,170962.0,Republican
+Total,2012,65918507.0,60934407.0,Democrat
+Texas,2016,3877868.0,4685047.0,Republican
+Florida,2016,4504975.0,4617886.0,Republican
+Pennsylvania,2016,2926441.0,2970733.0,Republican
+Ohio,2016,2394169.0,2841006.0,Republican
+Georgia,2016,1877963.0,2089104.0,Republican
+Michigan,2016,2268839.0,2279543.0,Republican
+North Carolina,2016,2189316.0,2362631.0,Republican
+Arizona,2016,1161167.0,1252401.0,Republican
+Indiana,2016,1033126.0,1557286.0,Republican
+Tennessee,2016,870695.0,1522925.0,Republican
+Missouri,2016,1071068.0,1594511.0,Republican
+Wisconsin,2016,1382536.0,1405284.0,Republican
+Alabama,2016,729547.0,1318255.0,Republican
+South Carolina,2016,855373.0,1155389.0,Republican
+Kentucky,2016,628854.0,1202971.0,Republican
+Louisiana,2016,780154.0,1178638.0,Republican
+Oklahoma,2016,420375.0,949136.0,Republican
+Arkansas,2016,380494.0,684872.0,Republican
+Iowa,2016,653669.0,800983.0,Republican
+Kansas,2016,427005.0,671018.0,Republican
+Mississippi,2016,485131.0,700714.0,Republican
+Utah,2016,310676.0,515231.0,Republican
+Nebraska,2016,284494.0,495961.0,Republican
+West Virginia,2016,188794.0,489371.0,Republican
+Idaho,2016,189765.0,409055.0,Republican
+Alaska,2016,116454.0,163387.0,Republican
+Montana,2016,177709.0,279240.0,Republican
+North Dakota,2016,93758.0,216794.0,Republican
+South Dakota,2016,117458.0,227721.0,Republican
+Wyoming,2016,55973.0,174419.0,Republican
+Maine,2016,357735.0,335593.0,Democrat
+California,2016,8753792.0,4483814.0,Democrat
+Colorado,2016,1338870.0,1202484.0,Democrat
+Connecticut,2016,897572.0,673215.0,Democrat
+Delaware,2016,235603.0,185127.0,Democrat
+D. C.,2016,282830.0,12723.0,Democrat
+Hawaii,2016,266891.0,128847.0,Democrat
+Illinois,2016,3090729.0,2146015.0,Democrat
+Maryland,2016,1677928.0,943169.0,Democrat
+Massachusetts,2016,1995196.0,1090893.0,Democrat
+Minnesota,2016,1367825.0,1323232.0,Democrat
+Nevada,2016,539260.0,512058.0,Democrat
+New Hampshire,2016,348526.0,345790.0,Democrat
+New Jersey,2016,2148278.0,1601933.0,Democrat
+New Mexico,2016,385234.0,319667.0,Democrat
+New York,2016,4556142.0,2819557.0,Democrat
+Oregon,2016,1002106.0,782403.0,Democrat
+Rhode Island,2016,252525.0,180543.0,Democrat
+Vermont,2016,178573.0,95369.0,Democrat
+Virginia,2016,1981473.0,1769443.0,Democrat
+Washington,2016,1742718.0,1221747.0,Democrat
+Total,2016,65853652.0,62985134.0,Democrat
